@@ -1,10 +1,16 @@
 {
   "expo": {
     "name": "GEMARE",
-    "slug": "GEMARE",
+    "slug": "gemare",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "4f5a39bb-5710-476c-ab70-dd7b77015fe3"
+      }
+    },
+    "owner": "enger225"
   }
 }
